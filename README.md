@@ -36,48 +36,20 @@ Build an application server with a single API.
     source venv/bin/activate
     ```
    
-   If you are using another name for the virtual environment other than `venv`, then please mention it in `.gitignore`.
+  
 
-3. Install Flask
+3. Install Flask & Flask-RESTful with pip
 
     ```bash
     pip install Flask
-    ```
-### Development
-
-
-   
-**Note: the python-openid and python3-openid package that come alone with the social-auth package are bugged.
-to fix this issue, run the following command:**
-
-```pip uninstall python-openid && pip uninstall python3-openid```
-
-**press 'y' if asked for authorisation.**
-
-**then reinstall the uninstalled packages**
-
-```pip install python-openid && pip install python3-openid```
-
-**and then continue with the following instructions**
-
-
-5. Make migrations/ Create db.sqlite3
-
-    ```bash
-    python manage.py makemigrations
-    python manage.py migrate
+    pip install flask-restful
     ```
 
-6. Create a super user.
-    In Django, if you want to access admin page, you need to create an account with staff status first.
-    ```djangotemplate
-    python manage.py createsuperuser
-    ```
-   Then select your username and password. You can bypass a common password for development purposes.
-   
+
 7. Run the server on localhost:
     ```bash
-    python manage.py runserver
+    set FLASK_API=app.py
+    flask run
     ```
 
 8. Make the changes and send a PR, referencing the changes.
