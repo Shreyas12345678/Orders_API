@@ -1,3 +1,4 @@
+# Tejas-SCL-maxo
 
 <br>
 <!-- Team Logos --!>
@@ -10,43 +11,57 @@
 
 <!-- Heads -->
 <p align="center">
-  
+  <img src="https://imagizer.imageshack.com/img924/621/nO9Vht.png" alt="NoteRepo Logo" height="120px" border="0"/>&nbsp;
   <p align="center">
-   Build an application server with a single API.
+    All your Cheatsheets, Reference Books and Practice Papers, at One Place!
     <br />
     <a href="#documentation"><strong>Documentation</strong></a>
     <br />
     <br />
-    
+    <a href="https://noterepo.herokuapp.com/"target="_blank" rel="noopener noreferrer">View a Live Demo</a>
+    · 
+    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/issues/new">Report a Bug</a>
+    ·
+    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/issues/new">Request a Feature</a>
   </p>
 </p>
 
 <!-- Logos -->
 <br>
 <p align="center">
-  
+  <a href="https://github.com/kan12340987/Tejas-SCL-maxo/blob/main/README.md">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80"> &nbsp;
     <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif" border="0" alt="Powered by Django." title="Powered by Django." /></a>  
-
-  
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="100" height="80">  
+  </a>
 <br>
 <br>
 
-
+<!-- Repo detail Stickers -->
+<p align="center">                          
+    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kan12340987/Tejas-SCL-maxo?style=for-the-badge"></a>
+    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/kan12340987/Tejas-SCL-maxo?style=for-the-badge"></a>
+    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kan12340987/Tejas-SCL-maxo?style=for-the-badge"></a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The API</a>
-      
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#project-description">Project Description</a></li>
+      </ul>
     </li>
     <li>
-      <a href="#getting-started">How to run</a>
-     
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#development">Development</a></li>
+      </ul>
     </li>
-    
+    <li><a href="#contributing">Contributing / Adding features</a></li>
   </ol>
 </details>
 
