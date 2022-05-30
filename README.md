@@ -6,16 +6,21 @@ API Building
 
 <br>
 
-<!-- Repo detail Stickers -->
+
 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    
     <li>
-      <a href="#getting-started">How to Run</a>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#project-description">Project Description</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#development">Development</a></li>
@@ -44,10 +49,7 @@ API Building
 ### Installation 
 
 1. Fork and Clone
-    <ol>
-    <li>Fork the Tejas-SCL-maxo Repository</li>
-    <li>Clone the repo to your local system.</li>
-    </ol>
+  
 
 2. Create a Virtual Environment for the Project
 
