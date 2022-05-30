@@ -37,10 +37,7 @@
     </li>
     <li>
       <a href="#getting-started">How to run</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#development">Development</a></li>
-      </ul>
+     
     </li>
     <li><a href="#contributing">Important technical decisions made</a></li>
   </ol>
