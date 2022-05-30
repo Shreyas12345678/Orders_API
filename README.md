@@ -6,41 +6,10 @@ API Building
 
 <br>
 
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#project-description">Project Description</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#development">Development</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing / Adding features</a></li>
-  </ol>
-</details>
-
-<br />
-
-<!-- About Project -->
-
 ## About the Project
 
-#### Project Description
+Build an application server with a single API.
 
-1. Backend Framework: **Django**
-2. Front-end Framework: **Bootstrap**
-3. Database used: **Sqlite**
 
 <!-- Getting started -->
 
