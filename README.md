@@ -44,7 +44,11 @@ Build an application server with a single API.
     flask run
     ```
     
-
-
-
-
+<br>
+<br>
+### Important Technical Desicion made
+1. Used Flask as framework to build an rest api using its inbuilt rest_api package.
+2. Users are given flexibility to add new items,without any interuption and can change the delivery distance at any time
+3. User can find Order details and total order cost before confirm the Order
+4. Tested the api using Postman(Sreenshots are available in screenshots folder)
+    
