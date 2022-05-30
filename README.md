@@ -38,21 +38,15 @@ Build an application server with a single API.
    
    If you are using another name for the virtual environment other than `venv`, then please mention it in `.gitignore`.
 
-3. Install all the requirements
+3. Install Flask
 
     ```bash
-    pip install -r requirements.txt
+    pip install Flask
     ```
 ### Development
 
-4. Checkout to a different branch
-     ```git
-    git status
-    git pull
-    git branch
-    git checkout -b <your-branch-here>
+
    
-   ```
 **Note: the python-openid and python3-openid package that come alone with the social-auth package are bugged.
 to fix this issue, run the following command:**
 
