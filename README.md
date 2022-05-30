@@ -42,10 +42,14 @@ Build an application server with a single API.
 
 
 4. Run the server on localhost:
+    In windows
+
     ```bash
     set FLASK_API=app.py
     flask run
     ```
+    In Linux
+    python3 app.py
     
 <br>
 <br>
