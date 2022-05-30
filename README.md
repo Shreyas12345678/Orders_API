@@ -49,7 +49,9 @@ Build an application server with a single API.
     flask run
     ```
     In Linux
+    ```bash
     python3 app.py
+    ```
     
 <br>
 <br>
