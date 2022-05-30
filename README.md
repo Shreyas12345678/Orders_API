@@ -45,12 +45,12 @@ Build an application server with a single API.
     In windows
 
     ```bash
-    set FLASK_API=app.py
+    set FLASK_API=api.py
     flask run
     ```
     In Linux
     ```bash
-    python3 app.py
+    python3 api.py
     ```
     
 <br>
