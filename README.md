@@ -41,7 +41,7 @@ Build an application server with a single API.
     ```
 
 
-4. Run the server on localhost:
+4. Run the server on localhost:<br>
     In windows
 
     ```bash
