@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/kan12340987/Tejas-SCL-maxo/blob/main/README.md">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80"> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80">
    <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fbrandeps.com%2Flogo%2FF%2FFlask-01&psig=AOvVaw1lL3QEhNysS1jDA9GYFfEf&ust=1653977077524000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDGkPTGhvgCFQAAAAAdAAAAABAI">
     
   </a>
