@@ -1,0 +1,29 @@
+{
+    "distance": 6000,
+    "offer": {
+        "offer_type": "FLAT",
+        "offer_val": 3000
+    },
+    "order_items": [
+        {
+            "name": "bread",
+            "price": 2200,
+            "quantity": 2
+        },
+        {
+            "name": "butter",
+            "price": 5900,
+            "quantity": 1
+        },
+        {
+            "name": "milk",
+            "price": 500,
+            "quantity": 2
+        },
+        {
+            "name": "cooking-oil",
+            "price": 1000,
+            "quantity": 4
+        }
+    ]
+}
