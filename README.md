@@ -1,14 +1,22 @@
 
+<br>
+<!-- Team Logos --!>
 
- 
- 
+<p align="center">
+  <img src="https://imagizer.imageshack.com/img922/931/mWPJBF.png" alt="Tejas-LOGO" height="120px" border="0"/>&nbsp; 
+  <img src="https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/prod-pict-xmark_2.png" height=75px; padding="0px 0px 20px 0px"# style>&nbsp; 
+  <img src="https://imagizer.imageshack.com/img923/9449/MdJHUX.png" alt="SCL-Logo-PNG" height="130px" border="0"/>
+  <h1 align="center">Tejas x SCL</h1>
+
+<!-- Heads -->
+<p align="center">
   
- <p align="center">
-     Build an application server with a single API.
+  <p align="center">
+   Build an application server with a single API.
     <br />
-
- <br />
-    
+    <a href="#documentation"><strong>Documentation</strong></a>
+    <br />
+    <br />
     
   </p>
 </p>
@@ -17,11 +25,10 @@
 <br>
 <p align="center">
   
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80"> &nbsp;
-  <a href="http://www.djangoproject.com/"> <img src="https://palletsprojects.com/p/flask/"></a>
-    
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80"> &nbsp;
+    <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif" border="0" alt="Powered by Django." title="Powered by Django." /></a>  
+
+  
 <br>
 <br>
 
@@ -39,7 +46,7 @@
       <a href="#getting-started">How to run</a>
      
     </li>
-    <li><a href="#contributing">Important technical decisions made</a></li>
+    
   </ol>
 </details>
 
@@ -47,18 +54,23 @@
 
 <!-- About Project -->
 
-## About the API
+## About the Project
 
-The API will take as input items ordered, delivery distance, and offer applied. The response is the total order value.
+#### Project Description
 
+1. Backend Framework: **Django**
+2. Front-end Framework: **Bootstrap**
+3. Database used: **Sqlite**
 
 <!-- Getting started -->
 
-## How to Run
+## Getting Started
+
+### Installation 
 
 1. Fork and Clone
     <ol>
-    <li>Fork the Orders_API</li>
+    <li>Fork the Tejas-SCL-maxo Repository</li>
     <li>Clone the repo to your local system.</li>
     </ol>
 
@@ -80,10 +92,19 @@ The API will take as input items ordered, delivery distance, and offer applied. 
    
    If you are using another name for the virtual environment other than `venv`, then please mention it in `.gitignore`.
 
+3. Install all the requirements
 
+    ```bash
+    pip install -r requirements.txt
     ```
 ### Development
 
+4. Checkout to a different branch
+     ```git
+    git status
+    git pull
+    git branch
+    git checkout -b <your-branch-here>
    
    ```
 **Note: the python-openid and python3-openid package that come alone with the social-auth package are bugged.
