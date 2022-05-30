@@ -7,14 +7,9 @@
      Build an application server with a single API.
     <br />
 
-<a href="#documentation"><strong>Documentation</strong></a>
-    <br />
-    <br />
-    <a href="https://noterepo.herokuapp.com/"target="_blank" rel="noopener noreferrer">View a Live Demo</a>
-    · 
-    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/issues/new">Report a Bug</a>
-    ·
-    <a href="https://github.com/kan12340987/Tejas-SCL-maxo/issues/new">Request a Feature</a>
+ <br />
+    
+    
   </p>
 </p>
 
