@@ -78,6 +78,7 @@ def get_fun():
     total_price=total_price-Discount
     return {'total':total_price}
 
+#Order details
 @app.route('/show_order_details')
 def show_order():
   return jsonify(Orders)    
